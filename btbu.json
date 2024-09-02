@@ -2,7 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": "btbu.edu.cn"
+      "domain_suffix": "btbu.edu.cn",
+      "domain_keyword": [
+        "btbu"
+      ]
     }
   ]
 }
